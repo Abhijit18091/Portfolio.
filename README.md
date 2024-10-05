@@ -1,2 +1,2 @@
 # Portfolio.
-asdfg
+"Visit my portfolio website at [http://127.0.0.1:5500/index.html] to explore a comprehensive showcase of my skills, projects, and achievements. This platform is designed to reflect my professional journey and expertise, providing potential clients and employers with insight into my work. Each section is thoughtfully curated to demonstrate my capabilities and how I can add value to future opportunities."
